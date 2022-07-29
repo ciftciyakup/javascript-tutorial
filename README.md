@@ -1,2 +1,3 @@
 # javascript-tutorial
- JavaScript Tutorial
+
+Notes for JavaScript Tutorial
